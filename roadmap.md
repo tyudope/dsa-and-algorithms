@@ -1,12 +1,6 @@
 # Data Structures & Algorithms
 
 A long-term, foundation-first study log. The goal is not coverage or problem count — it's understanding each structure deeply enough to explain its tradeoffs cold, and to know when it's the *wrong* choice.
-
-Two tracks run in parallel:
-
-- **Daily LeetCode (1/day):** maintenance reps. Pulled from the topic currently being studied or already covered — never from material not yet reached. Keeps recall warm.
-- **Weekly deep study (3–4h):** the actual foundation. One topic, studied properly, implemented from scratch, notes that pass the five-question bar below.
-
 ## The depth standard
 
 Every structure's `notes.md` must answer all five before it counts as "done":
@@ -33,8 +27,6 @@ dsa/
 Every solved problem gets a written rationale: brute force → bottleneck → unlocking insight → final time/space complexity.
 
 ## Progress tracker
-
-Pace: ~3–4h deep study/week + 1 LeetCode/day. Full track ≈ 19–23 weeks. Mark `[x]` when the five-question bar is met, not when the code merely runs.
 
 ### Foundations
 
